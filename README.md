@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Riaan Anand Mura
 
-<!--
-**riaananandm-ctrl/riaananandm-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IB MYP student in Hyderabad. I build tools that make schoolwork easier to manage.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**TaskTrack** — a study planner for IB MYP and DP students. It imports ManageBac
+tasks, sorts them by subject and priority, sends deadline reminders, and includes
+AI study tools.
+
+- Live site: https://tasktrackbm.vercel.app
+- Code: https://github.com/riaananandm-ctrl/TaskTrack
+
+## Writing
+
+I publish stories on StoryWeaver under the name **riaan-mura**.
+
+## Find me
+
+- LinkedIn: https://www.linkedin.com/in/riaan-mura-689555319
+- GitHub: https://github.com/riaananandm-ctrl
